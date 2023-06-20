@@ -1,0 +1,39 @@
+_repo: The-book-of-The-Cheese-b-Being-traits-and-stories-of-Ye-Olde-Cheshire-Cheese_70991
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Reid, T. W.
+    gutenberg_agent_id: '56028'
+    url: http://www.gutenberg.org/2009/agents/56028
+creator:
+  editors:
+  - agent_name: Adams, R. R. D.
+    gutenberg_agent_id: '56030'
+    url: http://www.gutenberg.org/2009/agents/56030
+  - agent_name: Banfield, Frank
+    gutenberg_agent_id: '56031'
+    url: http://www.gutenberg.org/2009/agents/56031
+  - agent_name: Graham, William Hussey
+    gutenberg_agent_id: '56029'
+    url: http://www.gutenberg.org/2009/agents/56029
+description: ''
+gutenberg_issued: '2023-06-16'
+identifiers:
+  gutenberg: '70991'
+language: en
+pgterms:marc904: https://archive.org/details/bookofcheesebein00reid
+pgterms:marc905: 20210421072528reid
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: Bob Taylor, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bYe Old Cheshire Cheese, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The book of The Cheese : $b Being traits and stories of "Ye Olde Cheshire
+  Cheese"'
+url: http://www.gutenberg.org/ebooks/70991
