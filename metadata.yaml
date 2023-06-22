@@ -5,6 +5,9 @@ contributor:
     agent_name: Reid, T. W.
     gutenberg_agent_id: '56028'
     url: http://www.gutenberg.org/2009/agents/56028
+covers:
+- cover_type: archival
+  image_path: 70991-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Adams, R. R. D.
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '56029'
     url: http://www.gutenberg.org/2009/agents/56029
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70991#The-book-of-The-Cheese-b-Being-traits-and-stories-of-Ye-Olde-Cheshire-Cheese
 gutenberg_issued: '2023-06-16'
 identifiers:
   gutenberg: '70991'
